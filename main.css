@@ -1,3 +1,18 @@
 body {
  font-family: 'Roboto Mono', monospace;
 }
+
+.title {
+  padding: 10px;
+  border: 25px solid #000000;
+}
+
+.About {
+  padding: 10px;
+  border: 5px solid #000000;
+}
+
+.Mail-Service {
+  padding: 10px;
+  border: 5px solid #000000;
+}
