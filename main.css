@@ -5,7 +5,9 @@ body {
 .title {
   padding: 10px;
   border: 25px solid #000000;
+  position: -webkit-sticky;
   position: sticky;
+  top: 0;
 }
 
 .About {
